@@ -13,21 +13,45 @@
 
 ****
 ### 队列
+
+#### 线形队列
 - <a href="01.algorithm_notes\005.队列的概述.md">005.队列的概述</a>
 - <a href="01.algorithm_notes\006.数组模拟队列概述.md">006.数组模拟队列概述</a>
 - <a href="01.algorithm_notes\007.数组模拟队列代码实现.md">007.数组模拟队列代码实现</a>
+
+#### 环形队列
 - <a href="01.algorithm_notes\008.数组模拟环形队列分析.md">008.数组模拟环形队列分析</a>
 - <a href="01.algorithm_notes\009.数组模拟环形队列的代码实现.md">009.数组模拟环形队列的代码实现</a>
 - <a href="01.algorithm_notes\010.数组模拟环形队列无判断位做法.md">010.数组模拟环形队列无判断位做法</a>
 
 ****
 ### 链表
+
+#### 单向链表
 - <a href="01.algorithm_notes\011.单链表介绍和内存布局.md">011.单链表介绍和内存布局</a>
 - <a href="01.algorithm_notes\012.单链表创建和遍历的实现.md">012.单链表创建和遍历的实现</a>
 - <a href="01.algorithm_notes\013.单链表的代码实现.md">013.单链表的代码实现</a>
 - <a href="01.algorithm_notes\014.单链表新浪面试题.md">014.单链表新浪面试题</a>
 - <a href="01.algorithm_notes\015.单链表腾讯面试题.md">015.单链表腾讯面试题</a>
 - <a href="01.algorithm_notes\016.单链表百度面试题.md">016.单链表百度面试题</a>
+
+#### 双向链表
+- <a href="01.algorithm_notes\017.双向链表的增删查改.md">017.双向链表的增删查改</a>
+- <a href="01.algorithm_notes\018.双向链表的代码实现.md">018.双向链表的代码实现</a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>  
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>  
 - <a href=""></a>
 - <a href=""></a>
 - <a href=""></a>
