@@ -43,6 +43,25 @@
 - <a href="01.algorithm_notes\019.单向环形链表和约瑟夫问题.md">019.单向环形链表和约瑟夫问题</a>
 - <a href="01.algorithm_notes\020.单向环形链表分析和代码实现.md">020.单向环形链表分析和代码实现</a>
 - <a href="01.algorithm_notes\021.单向环形链表解决约瑟夫环问题.md">021.单向环形链表解决约瑟夫环问题</a>
+
+### 栈
+- <a href="01.algorithm_notes\022.栈的应用场景和介绍.md">022.栈的应用场景和介绍</a>
+- <a href=""></a>
+- <a href=""></a>  
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>  
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
 - <a href=""></a>
 - <a href=""></a>
 - <a href=""></a>  
