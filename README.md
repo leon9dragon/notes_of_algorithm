@@ -86,7 +86,7 @@
 - <a href="01.algorithm_notes\031.递归的应用和说明.md">031.递归的应用和说明</a>
 - <a href="01.algorithm_notes\032.迷宫回溯问题分析和实现.md">032.迷宫回溯问题分析和实现</a>  
 - <a href="01.algorithm_notes\033.八皇后问题分析.md">033.八皇后问题分析</a>
-- <a href=""></a>
+- <a href="01.algorithm_notes\034.八皇后问题代码实现.md">034.八皇后问题代码实现</a>
 - <a href=""></a>
 - <a href=""></a>
 - <a href=""></a>
