@@ -46,21 +46,24 @@
 
 ****
 ### 栈
+#### 栈
 - <a href="01.algorithm_notes\022.栈的应用场景和介绍.md">022.栈的应用场景和介绍</a>
 - <a href="01.algorithm_notes\023.栈的思路分析.md">023.栈的思路分析</a>
 - <a href="01.algorithm_notes\024.栈的代码实现.md">024.栈的代码实现</a>  
 - <a href="01.algorithm_notes\025.栈实现综合计算器-思路分析.md">025.栈实现综合计算器-思路分析</a>
 - <a href="01.algorithm_notes\026.栈实现综合计算器-代码实现.md">026.栈实现综合计算器-代码实现</a>
 
-****
-### 表达式
+#### 表达式
 - <a href="01.algorithm_notes\027.前缀中缀后缀表达式规则.md">027.前缀中缀后缀表达式规则</a>
 - <a href="01.algorithm_notes\028.逆波兰计算器实现.md">028.逆波兰计算器实现</a>
 - <a href="01.algorithm_notes\029.中缀转后缀表达式分析.md">029.中缀转后缀表达式分析</a>
 - <a href="01.algorithm_notes\030.中缀转后缀表达式代码实现.md">030.中缀转后缀表达式代码实现</a>
-- <a href=""></a>
-- <a href=""></a>  
-- <a href=""></a>
+
+****
+### 递归
+- <a href="01.algorithm_notes\031.递归的应用和说明.md">031.递归的应用和说明</a>
+- <a href="01.algorithm_notes\032.迷宫回溯问题分析和实现.md">032.迷宫回溯问题分析和实现</a>  
+- <a href="01.algorithm_notes\033.八皇后问题分析.md">033.八皇后问题分析</a>
 - <a href=""></a>
 - <a href=""></a>
 - <a href=""></a>
