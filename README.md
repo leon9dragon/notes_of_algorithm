@@ -133,8 +133,8 @@
 
 ### 7.1. 二叉树
 - <a href="01.algorithm_notes\035.二叉树的存储和定义.md">035.二叉树的存储和定义</a>
-- <a href="01.algorithm_notes\036.二叉树的创建和节点遍历.md">036.二叉树的创建和节点遍历</a>
-- <a href="01.algorithm_notes\037.二叉树的节点查找和节点删除.md">037.二叉树的节点查找和节点删除</a>
+- <a href="01.algorithm_notes\036.二叉树的创建和结点遍历.md">036.二叉树的创建和结点遍历</a>
+- <a href="01.algorithm_notes\037.二叉树的结点查找和结点删除.md">037.二叉树的结点查找和结点删除</a>
 - <a href=""></a>
 - <a href=""></a>
 - <a href=""></a>
