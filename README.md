@@ -151,6 +151,7 @@
 
 ### 5.2. 二分查找
 - <a href="01.algorithm_notes\031.二分查找思路和实现和优化.md">031.二分查找思路和实现和优化</a>
+- <a href="01.algorithm_notes\051.二分查找非递归算法的原理和实现.md">051.二分查找非递归算法的原理和实现</a>
 
 ### 5.3. 插值查找
 - <a href="01.algorithm_notes\032.插值查找的原理和实现.md">032.插值查找的原理和实现</a>
@@ -202,22 +203,21 @@
 - <a href="01.algorithm_notes\048.图的深度优先算法原理和实现.md">048.图的深度优先算法原理和实现</a>
 - <a href="01.algorithm_notes\049.图的广度优先算法原理和实现.md">049.图的广度优先算法原理和实现</a>
 - <a href="01.algorithm_notes\050.图的深度优先和广度优先算法的总结.md">050.图的深度优先和广度优先算法的总结</a>
-
+- <a href="01.algorithm_notes\056.贪心算法的原理以及解决集合覆盖问题.md">056.贪心算法的原理以及解决集合覆盖问题</a>
+- <a href="01.algorithm_notes\057.普里姆(Prim)算法的原理以及解决最小生成树问题.md">057.普里姆(Prim)算法的原理以及解决最小生成树问题</a>
+- <a href="01.algorithm_notes\058.克鲁斯卡尔(Kruskal)算法的原理以及解决最小生成树问题.md">058.克鲁斯卡尔(Kruskal)算法的原理以及解决最小生成树问题</a>
+- <a href="01.algorithm_notes\059.迪杰斯特拉(Dijkstra)算法的原理以及解决最短路径问题.md">059.迪杰斯特拉(Dijkstra)算法的原理以及解决最短路径问题</a>
+- <a href="01.algorithm_notes\060.弗洛伊德(Floyd)算法的原理以及解决最短路径问题.md">060.弗洛伊德(Floyd)算法的原理以及解决最短路径问题</a>
+- <a href="01.algorithm_notes\061.马踏棋盘算法的原理和实现方案.md">061.马踏棋盘算法的原理和实现方案</a>
+  
 ****
 
 ## 9. 常用的算法
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>  
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>  
+- <a href="01.algorithm_notes\052.分治算法的设计模式以及解决汉诺塔问题.md">052.分治算法的设计模式以及解决汉诺塔问题</a>
+- <a href="01.algorithm_notes\053.动态规划算法的原理以及解决背包问题.md">053.动态规划算法的原理以及解决背包问题</a>
+- <a href="01.algorithm_notes\054.暴力匹配算法的原理以及解决字符串匹配问题.md">054.暴力匹配算法的原理以及解决字符串匹配问题</a>  
+- <a href="01.algorithm_notes\055.KMP算法的原理以及解决字符串匹配问题.md">055.KMP算法的原理以及解决字符串匹配问题</a>
+
 - <a href=""></a>
 - <a href=""></a>
 - <a href=""></a>
